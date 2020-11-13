@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Pizza
+Pizzas
 
 Use the left arrow to go back!
